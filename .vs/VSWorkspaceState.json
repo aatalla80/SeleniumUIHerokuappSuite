@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SeleniumUITestSuite",
+    "\\SeleniumUITestSuite\\Features",
+    "\\SeleniumUITestSuite\\Features\\BaseTestClasses",
+    "\\SeleniumUITestSuite\\Features\\Tests",
+    "\\SeleniumUITestSuite\\PageObjects",
+    "\\SeleniumUITestSuite\\PageObjects\\AbstractClasses",
+    "\\SeleniumUITestSuite\\PageObjects\\PageObjectElements",
+    "\\SeleniumUITestSuite\\PageObjects\\PageObjectMethods"
+  ],
+  "SelectedNode": "\\SeleniumUITestSuite\\Features\\Tests\\HomePageTests.cs",
+  "PreviewInSolutionExplorer": false
+}

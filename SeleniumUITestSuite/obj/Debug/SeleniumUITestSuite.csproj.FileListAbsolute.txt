@@ -1,0 +1,36 @@
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.dll.config
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.pdb
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.Support.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.xml
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csprojAssemblyReference.cache
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csproj.CoreCompileInputs.cache
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csproj.CopyComplete
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.dll
+B:\Projects\CSharp\TestSeleniumProjects\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.pdb
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.dll.config
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\SeleniumUITestSuite.pdb
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.Support.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\bin\Debug\WebDriver.xml
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csproj.AssemblyReference.cache
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csproj.CoreCompileInputs.cache
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.csproj.CopyComplete
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.dll
+C:\Projects\2019 10 28c SeleniumUITestSuite\SeleniumUITestSuite\SeleniumUITestSuite\obj\Debug\SeleniumUITestSuite.pdb
